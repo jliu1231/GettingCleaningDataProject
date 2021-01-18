@@ -13,5 +13,7 @@ run_analysis.R provides a 5-step analysis of the downloaded data with the follow
 3.	Uses descriptive activity names to name the activities in the data set
 4.	Appropriately labels the data set with descriptive variable names. 
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 Code book.pdf provides descriptions for all variables involved in run_analysis.R.
+
 TidyData.txt is the final data table after performing data analysis using run_analysis.R.
